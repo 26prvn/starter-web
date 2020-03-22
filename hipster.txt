@@ -1,3 +1,7 @@
 this is a file
 Created for testing basics
 of GitHub.
+
+This is second paragraph.
+Finished.
+Bye Bye
