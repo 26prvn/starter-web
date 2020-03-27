@@ -7,9 +7,10 @@ This is introduction
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Sample website with plenty of files for demos, Purpose is to learn and grow
 
 ## How to Contribute
-
+Contribute by heart
 
 ## Deployment
+Can be on any web server
