@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Praveen Rana	26prvn@gmail.com
 
 # THANKS
 
