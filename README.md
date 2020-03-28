@@ -17,4 +17,4 @@ Can be on any web server
 
 ### Copyright
 
-2020 Copyright
+All rights reserved 2020.
