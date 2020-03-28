@@ -10,7 +10,8 @@ This is introduction
 Sample website with plenty of files for demos, Purpose is to learn and grow
 
 ## How to Contribute
-Contribute by heart
+
+Please fork this repository and then issue PULL request for review.
 
 ## Deployment
 Can be on any web server
