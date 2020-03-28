@@ -14,3 +14,7 @@ Contribute by heart
 
 ## Deployment
 Can be on any web server
+
+### Copyright
+
+2020 Copyright
